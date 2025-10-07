@@ -15,12 +15,12 @@ A scalable AI-powered system that analyzes research papers (PDF or text) and gen
 
 ## ⚙️ Project Structure
 
-├── agent.py               # Background processing & Groq LLM integration
-├── main.py                # FastAPI app entry point
-├── models.py              # Pydantic models for request/response
-├── requirements.txt       # Project dependencies
-├── .env                   # Environment variables
-├── README.md              # Project documentation
+├── agent.py               # Background processing & Groq LLM integration  
+├── main.py                # FastAPI app entry point  
+├── models.py              # Pydantic models for request/response  
+├── requirements.txt       # Project dependencies  
+├── .env                   # Environment variables  
+├── README.md              # Project documentation  
 
 ---
 
